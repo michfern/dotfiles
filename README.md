@@ -4,7 +4,6 @@ dotfiles
 repo for my dotfiles
 
 ## Assumptions
-========
 * **Homebrew** installed
 * **iTerm2** installed
 
